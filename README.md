@@ -7,8 +7,7 @@
 - 💞️ I’m looking to collaborate on BigData Project.
 - 📫 How to reach me- no way.
 - 😄 Pronouns: he/ his/ him.
-- ⚡ Fun fact: “Bad programmers worry about the code. Good programmers worry about data structures and their relationships.” ― Linus Torvalds
-- mb, I'm bad programmer?
+- ⚡ Fun fact: Most of the dust in the house is the exfoliated skin of its inhabitants. Open the windows more often if you don't want to breathe on your own.
 
 <!---
 P4elase/P4elase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
