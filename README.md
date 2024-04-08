@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @P4elase
-- 👀 I’m interested in Medicine.
+- 👀 I’m interested in WebDev.
 - 🌱 I’m currently learning JS, Py, SQL, C++.
 - 💞️ I’m looking to collaborate on BigData Project.
 - 📫 How to reach me- no way.
