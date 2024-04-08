@@ -1,3 +1,6 @@
+![NC_yhrgZkWw](https://github.com/P4elase/KaufList/assets/164899551/13067cfd-23a1-4e90-a3d0-fafde192d716)
+
+
 - 👋 Hi, I’m @P4elase
 - 👀 I’m interested in WebDev.
 - 🌱 I’m currently learning JS, Py, SQL, C++.
